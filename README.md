@@ -13,4 +13,4 @@ To contribute:
 1. Share the PR link in the designated Discord channel for review.
 
 ⚠️ Note: PRs that are not shared via Discord will not be reviewed. 
- Enjoy
+ Enjoy2
