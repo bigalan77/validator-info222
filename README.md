@@ -12,4 +12,5 @@ To contribute:
 1. Verify the Github checks are passing.
 1. Share the PR link in the designated Discord channel for review.
 
-⚠️ Note: PRs that are not shared via Discord will not be reviewed.
+⚠️ Note: PRs that are not shared via Discord will not be reviewed. 
+ Enjoy
